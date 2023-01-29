@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I am Anant 👋
 
+<img src="https://shields.io/github/followers/anant-jain2011?label=Follow" alt="Followers" /> <img src="https://shields.io/github/stars/anant-jain2011?affiliations=OWNER%2CCOLLABORATOR" alt="Stars" />
 <!--
 **anant-jain2011/anant-jain2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
