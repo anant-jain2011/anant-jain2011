@@ -1,6 +1,8 @@
 ### Hi there, I am Anant 👋
 
-<img src="https://shields.io/github/followers/anant-jain2011?label=Follow" alt="Followers" /> <img src="https://shields.io/github/stars/anant-jain2011?affiliations=OWNER%2CCOLLABORATOR" alt="Stars" />
+![Static Badge](https://img.shields.io/badge/Follow-277-blue)
+![Static Badge](https://img.shields.io/badge/stars-1430-blue)
+
 
 - 🔭 I’m currently working on #100DayOfCode of Python
 - 🌱 I’m currently learning Python
