@@ -1,5 +1,18 @@
-# 💫 About Me:
-I'm a self-taught full-stack developer from India who started programming at the age of 10.<br><br>Currently, I build web applications with React, TypeScript, Next.js, and modern backend technologies. I enjoy creating real-world projects, contributing to open source, and exploring system design and backend engineering.
+# Hi there 👋
+
+I'm a full-stack developer focused on building web applications and solving real-world problems.
+
+🚀 Building with React, Next.js, TypeScript, Node.js, MongoDB and PostgreSQL
+
+🌱 Currently learning backend engineering, Linux, and open source development
+
+⚡ I enjoy turning ideas into products and contributing to projects that help people
+
+### Current Goal
+
+To become an exceptional software engineer by building, shipping, and contributing to meaningful projects.
+
+📫 Reach me through GitHub Discussions or connect with me on social platforms.
 
 
 ## 🌐 Socials:
